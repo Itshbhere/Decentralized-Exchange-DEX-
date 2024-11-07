@@ -18,7 +18,7 @@ module.exports = {
 
   networks: {
     Sepolia: {
-      url: "https://mainnet.infura.io/v3/f66cd0a825834054b4fb156af5735664",
+      url: "https://rpc-vanguard.vanarchain.com",
       accounts: [
         "d7ba93e4324cd43781a68a565eff5a0352fe4075f2d3c86391d0a14c80b150c7",
       ],
